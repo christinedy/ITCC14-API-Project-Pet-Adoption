@@ -22,6 +22,7 @@ Finalize our project topic (“Pet Adoption API”), define the main features (p
 - [] Write “Problem Statement” and “Objectives”
 - [] Create initial data model diagram
 
+--------------------------------
 
 ## Milestone 2 (Nov Week 2): API Design & Setup
 * What we'll do:
@@ -37,6 +38,7 @@ Design the API structure and plan endpoints (e.g., /pets, /users, /adoptions). S
 - [] Create initial routes and run local server
 - [] Commit setup files and documentation to GitHub
 
+-----------------------------------------------------
 
 Milestone 3 (Nov Week 3): Database & Core Features
 * What we'll do:
@@ -52,6 +54,7 @@ Implement the database (SQLite/MongoDB) and connect it to the API. Add core feat
 - [] Test endpoints in Postman
 - [] Commit all working code to GitHub
 
+------------------------------------------------
 
 Milestone 4 (Nov Week 4): Validation & Improvements
 * What we'll do:
